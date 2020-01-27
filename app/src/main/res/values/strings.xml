@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDatePicker</string>
+    <string name="cancelled">Cancelled!</string>
+    <string name="title_activity_main">Home</string>
+</resources>
