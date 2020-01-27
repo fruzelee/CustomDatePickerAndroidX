@@ -1,2 +1,1 @@
-"# CustomDatePicker" 
 "# CustomDatePicker for Android " 
